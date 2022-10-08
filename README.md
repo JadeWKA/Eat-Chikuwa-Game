@@ -2,7 +2,13 @@
 
 This is a mini game of eating chikuwa.
 
+The characters and background are from the cartoon New Atashin'chi :)
+
+It is my favorite cartoon growing up.
+
 The objective of this game is to eat as many chikuwa as you can.
+
+You can use the keyboard up and down keys to control character movements.
 
 Eating food other than chikuwa will make your score drop by one.
 
